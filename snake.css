@@ -1,0 +1,11 @@
+/* borda e cor da borda */
+#stage{
+    border: solid 20px;
+    color: saddlebrown;
+    margin: 50px;
+    margin-left: 25%;
+}
+body{
+    background: url('folhas.jpg') no-repeat;
+    background-size: cover;
+}
