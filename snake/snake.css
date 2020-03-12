@@ -1,0 +1,5 @@
+/* borda e cor da borda */
+#stage{
+    border: solid 20px;
+    color: saddlebrown;
+}
